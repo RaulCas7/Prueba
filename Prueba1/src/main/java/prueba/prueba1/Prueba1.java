@@ -13,7 +13,7 @@ public class Prueba1 {
 
     public static void main(String[] args) {
         System.out.println("Me llamo ");
-        System.out.println("Modificacion Remota")
+        System.out.println("Modificacion Remota");
             
     }
 }
